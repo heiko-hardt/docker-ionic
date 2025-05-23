@@ -33,6 +33,7 @@ RUN apt-get update \
         maven \
         mc \
         openjdk-21-jdk-headless \
+        openssh-client \
         psmisc \
         python3-pip \
         sudo \
